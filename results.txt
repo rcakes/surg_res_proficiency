@@ -1,0 +1,124 @@
+# Case counts by resident
+
+Resident	Case count
+Peter Wu	75
+Thomas Roshek	74
+Myron St.-Louis	65
+Elena Ziarnik	57
+Alexander Perez	49
+Eyad Wohaibi	48
+Mazen Al-Mansour	47
+James Smith	43
+David Lynn	42
+Jay Kuhn	40
+Michael Tirabassi	40
+Ugo Ogwudu	40
+Juliana Meyer	40
+John Fessenden	39
+Philip Omotosho	38
+Eun Chang	37
+Claudia Lago-Toro	37
+Moriah Wright	37
+Yorell Manon-Matos	36
+Melissa Hull	34
+David Lin	33
+Erika Fellinger	33
+Nathan Conway	32
+Sabha Ganai	32
+Michael Ganey	31
+Rachel Etchison	30
+Alana Beres	29
+Romie Mundy	28
+Lisa Mark	27
+John Cope	27
+Rebecca Rhee	27
+Rachel Jones	26
+Gregory Banever	26
+Melissa Barney	26
+Renee Thompson	26
+Michael Hsu	25
+Marisa Amaral	25
+Jessica Evans	23
+Connie Rossini	22
+Saiqa Iftikhar Khan	22
+Loki Skylizard	22
+Debra Gargiulo	22
+Azad Jabiev	22
+George Wadie	20
+Syed Peeran	19
+Erica Giblin	19
+Sarah Wong	19
+Jose Hernandez Ford	18
+Cynthia Rupp	17
+David Penner	17
+Melissa Cloonan	17
+Prathima Kanumuri	17
+Eleasa Teng	16
+Kaitlyn Wong	16
+Elise Gates	16
+Leigh Ann Price	16
+Hannah Swayze	15
+Itoro Elijah	15
+Donavan Bland	15
+Lindy Davis	15
+Carolyn Messere	14
+Sean Kwon	14
+Savitri Rambissoon	14
+Kathy Gohar	14
+Terry Larsen	14
+Siva Venkata	13
+Lawrence Volz	12
+Jeko Madjarov	12
+Thampi Ampadi	12
+Gerald Khachi	11
+Parviz Goshtasby	11
+Roshni Rao	11
+Ramanathan Seshadri-Madras	11
+Deepak Bharadia	10
+Bernard Benedetto	10
+Pankaj Kulshrestha	10
+Kelli Chung	10
+Elizabeth Mae Chabot	10
+Richard Martin	10
+Levon Khojayan	9
+David Tashjian	9
+Maria Carmen Mora	7
+Brian Olack	7
+Jose Espinel	7
+Lee Adam Farber	6
+Foaz Kayali	6
+Akeel M Merchant	5
+Sundeep Shukla	5
+Ruchi Thanawala	5
+Stephen Cady	4
+Nazer Qureshi	4
+Srinivas Ravi	4
+Jennifer McLellan	4
+Allison Ramler	4
+Jehan Helmi	4
+Tessa Smit	4
+Matthew Kronick	4
+Annie Lee	3
+Thomas Pane	3
+Cecivon Arreola-Garcia	3
+Judith Christina Sporn	3
+Kristina Potanos	3
+Jakub Reczek	3
+Kaitlin Petros	3
+Gladys Fernandez	3
+Katharine Bittner	2
+Ratna Pallapothu	2
+Marwan Jaber	2
+Jonathan James McClain	2
+Brian Steckel	2
+Robin Cole	2
+Gregory Carlson	2
+Chun Ho	1
+F. Warren Prescott	1
+Pranjali Kainkaryam	1
+Sofiane El Djouzi	1
+Peter Miller	1
+Domenico Laporta	1
+Ami Kuisle	1
+Venkatachalam Senthilnathan	1
+

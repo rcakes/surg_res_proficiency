@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "",
+        "passwd": "",
+        "db_name": "operative_proficiency",
+        "table": "cases"
+    }
+}
